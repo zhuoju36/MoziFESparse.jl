@@ -1,2 +1,2 @@
-# MoziFESparse
-Sparse matrix for fem model
+# MoziFESparse.jl
+Sparse matrix for fem model (COO,DOK)
