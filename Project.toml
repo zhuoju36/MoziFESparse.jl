@@ -1,0 +1,4 @@
+name = "MoziFESparse"
+uuid = "38b32a81-66d9-4e97-ab3b-d94dedfcc576"
+authors = ["HZJ <zhuoju36@hotmail.com>"]
+version = "0.1.0"
