@@ -2,3 +2,6 @@ name = "MoziFESparse"
 uuid = "38b32a81-66d9-4e97-ab3b-d94dedfcc576"
 authors = ["HZJ <zhuoju36@hotmail.com>"]
 version = "0.1.0"
+
+[deps]
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
